@@ -6,9 +6,9 @@
 // @author       Tuna "Lonely"
 // @match        https://pixelzone.io/*
 // @match        http://pixelzone.io/*
-// @homepage     https://github.com/fenerzone/fenerzoneminimap/
-// @updateURL    https://raw.githubusercontent.com/fenerzone/fbzoneminimap/blob/master/minimap.user.js
-// @downloadURL  https://raw.githubusercontent.com/fenerzone/fbzoneminimap/blob/master/minimap.user.js
+// @homepage     https://github.com/fenerzone/fenerzonemap/
+// @updateURL    https://raw.githubusercontent.com/fenerzone/fbzonemap/blob/master/minimap.user.js
+// @downloadURL  https://raw.githubusercontent.com/fenerzone/fbzonemap/blob/master/minimap.user.js
 // @grant        none
 // ==/UserScript==
 
@@ -18,7 +18,7 @@ Number.prototype.between = function(a, b) {
   return this > min && this < max;
 };
 
-window.baseTepmlateUrl = 'https://raw.githubusercontent.com/fenerzone/fbzoneminimap/master';
+window.baseTepmlateUrl = 'https://raw.githubusercontent.com/fenerzone/fbzonemap/master';
 
 window.addEventListener('load', function () {
     //Regular Expression to get coordinates out of URL
