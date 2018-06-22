@@ -13,11 +13,25 @@
     "width": 200,
     "height": 163
   },
-      "Cubuklu": {
+    "Cubuklu": {
     "name": "cubuklu.png",
     "x": 1007,
     "y": -3949,
     "width": 369,
     "height": 34
+  },
+    "Discord": {
+    "name": "discord.png",
+    "x": 1034,
+    "y": -3849,
+    "width": 228,
+    "height": 14
+  },
+    "Discord": {
+    "name": "Ataturk.png",
+    "x": 860,
+    "y": -3775,
+    "width": 127,
+    "height": 124
   }
 }
