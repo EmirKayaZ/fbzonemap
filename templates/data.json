@@ -5,5 +5,12 @@
     "y": -3793,
     "width": 145,
     "height": 145
+   },
+     "Alex": {
+    "name": "alex.png",
+    "x":  1215,
+    "y": -3782,
+    "width": 200,
+    "height": 163
    }
 }
