@@ -107,8 +107,7 @@ window.addEventListener('load', function () {
         document.getElementById("minimap-text").style.display = "none";
         document.getElementById("minimap-text").style.cursor = "default";
         loadTemplates();
-    };
-    document.getElementById("zoom-plus").addEventListener('mousedown', function (e) {
+   document.getElementById("zoom-plus").addEventListener('mousedown', function (e) {
         e.preventDefault();
         zooming_in = true;
         zooming_out = false;
@@ -139,7 +138,6 @@ window.addEventListener('load', function () {
             getCenter();
         }
     };
-
     gameWindow = document.getElementById("layer1");
     gameWindow.addEventListener('mouseup', function (evt) {
         if (!toggle_show)
