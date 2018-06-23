@@ -1,18 +1,4 @@
 {
-    "Fenerbahce": {
-    "name": "fenerbahcelogo.png",
-    "x":  1036,
-    "y": -3793,
-    "width": 145,
-    "height": 145
-   },
-  "Alex": {
-    "name": "alex.png",
-    "x": 1215,
-    "y": -3782,
-    "width": 200,
-    "height": 163
-  },
     "Cubuklu": {
     "name": "cubuklu.png",
     "x": 1007,
@@ -27,11 +13,11 @@
     "width": 228,
     "height": 14
   },
-    "Ataturk": {
-    "name": "ataturk.png",
+    "Main": {
+    "name": "main.png",
     "x": 860,
-    "y": -3775,
-    "width": 127,
-    "height": 124
+    "y": -3795,
+    "width": 558,
+    "height": 179
   }
 }
