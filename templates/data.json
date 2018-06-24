@@ -33,5 +33,12 @@
     "y": -492,
     "width": 147,
     "height": 147
+  },
+    "MerkezDiscord": {
+    "name": "discordnew.png",
+    "x": 1188,
+    "y": -288,
+    "width": 325,
+    "height": 108
   }
 }
