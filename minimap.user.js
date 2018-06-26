@@ -37,7 +37,7 @@ window.addEventListener('load', function () {
     y = 0;
     //list of all available templates
     template_list = null;
-    zoomlevel = 6;
+    zoomlevel = 9;
     //toggle options
     toggle_show = true;
     toggle_follow = true; //if minimap is following window, x_window = x and y_window = y;
